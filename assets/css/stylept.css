@@ -1,0 +1,12 @@
+body {
+  background-image: url(../paper.jpg);
+
+  background-attachment: fixed;
+}
+.flex-container {
+  display: flex;
+  height: 600px;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+}
