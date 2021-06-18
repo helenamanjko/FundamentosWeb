@@ -73,26 +73,26 @@ function fotoZoom() {
 }
 
 function fotoNormal() {
-  foto1.style.width = "320px";
+  foto1.style.width = "300px";
 }
 function fotoZoom2() {
   foto2.style.width = "440px";
 }
 
 function fotoNormal2() {
-  foto2.style.width = "320px";
+  foto2.style.width = "300px";
 }
 function fotoZoom3() {
   foto3.style.width = "440px";
 }
 
 function fotoNormal3() {
-  foto3.style.width = "320px";
+  foto3.style.width = "300px";
 }
 function fotoZoom4() {
   foto4.style.width = "440px";
 }
 
 function fotoNormal4() {
-  foto4.style.width = "320px";
+  foto4.style.width = "300px";
 }
